@@ -16,4 +16,4 @@ code for sparse matrix-vector multiplication
 - run: `./spmv matrixfile`
 
 ## AutoML
-code for train and test models using AutoML tool
+code for training and testing models using AutoML tool
