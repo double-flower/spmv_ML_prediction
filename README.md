@@ -6,7 +6,7 @@ A machine learning based SpMV optimization approach
 - **CUDA**: 10.2 and later
 - **[CUSP](https://github.com/cusplibrary/cusplibrary)**: 0.5.1 
 
-## spmv
+## spmv overview
 code for sparse matrix-vector multiplication
 ### Usage
 - Modify Makefile
@@ -15,5 +15,5 @@ code for sparse matrix-vector multiplication
 - compile: `make`
 - run: `./spmv matrixfile`
 
-## AutoML
+## AutoML overview
 code for training and testing models using AutoML tool
